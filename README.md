@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @McEiche
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Python, Java and C++.
+- 🌱 I’m currently learning Python and C.
 - 💞️ I’m looking to collaborate on AI Projects.
 - 📫 How to reach me per E-Mail for now.
 
